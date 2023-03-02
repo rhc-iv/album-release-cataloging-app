@@ -9,15 +9,19 @@
   </a>
 </p>
 
+### 🛋️ [Homepage](https://github.com/rhc-iv/album-release-cataloging-app)
+---
 > A Python app, built around the Tkinter module, that allows users to create a catalog of their personal music collection and store it to a .json file.
 
-### 🛋️ [Homepage](https://github.com/rhc-iv/album-release-cataloging-app)
 
-
+<p align="center">
+  <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot.png" width="800" height="600" />
+</p>
 
 ## 👩🏻‍💻 Usage
 
 - Open the .py file in the editor/IDE of your choice and run the script!
+- Use the _**Print**_ button to send the .json file output to console.
 - Use the _**Add**_ button to add new information to the catalog.
 - Use the _**Cancel**_ button to clear all catalog fields.
 - Entries that appear in the app's _**TreeView**_ can be _**Updated**_ or _**Deleted**_.
