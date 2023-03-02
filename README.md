@@ -13,7 +13,7 @@
 
 ### 🛋️ [Homepage](https://github.com/rhc-iv/album-release-cataloging-app)
 
-<img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot.png" width="800" height="600" />
+
 
 ## 👩🏻‍💻 Usage
 
