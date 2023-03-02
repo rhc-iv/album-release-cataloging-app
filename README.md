@@ -13,6 +13,8 @@
 
 ### 🛋️ [Homepage](https://github.com/rhc-iv/album-release-cataloging-app)
 
+![ARCA](http)
+
 ## 👩🏻‍💻 Usage
 
 - Open the .py file in the editor/IDE of your choice and run the script!
