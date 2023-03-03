@@ -1,4 +1,4 @@
-<h1 align="center">Album Release Cataloging App (ARCA) 🎧</h1>
+<h1 align="center">🎧 Album Release Cataloging App (ARCA)</h1>
 <p align="center">
   <img alt="Language" src="https://img.shields.io/badge/language-python-blue"><br>
   <img alt="Python Version" src="https://img.shields.io/badge/python_version-3.11-yellow" /><br>
