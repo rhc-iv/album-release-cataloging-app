@@ -42,6 +42,7 @@ The **Streamlit** portion of this repository is unfinished. I am currently worki
 
 - Work on TreeView readability.
 - Add drop-down GUI element that allows users to select fields for catalog entries.
+- Work on fleshing out the Streamlit app
 
 ## 👤 Author
 
