@@ -1,12 +1,16 @@
 <h1 align="center">Album Release Cataloging App (ARCA) 🎧</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" /><br>
+<p align="center">
+  <img alt="Language" src="https://img.shields.io/badge/language-python-blue"><br>
+  <img alt="Python Version" src="https://img.shields.io/badge/python_version-3.11-yellow" /><br>
+  <img alt="Version" src="https://img.shields.io/badge/app_version-1.10-blue.svg?cacheSeconds=2592000" />
+  <p align="center">
   <a href="https://twitter.com/rhc_iv" target="_blank">
-    <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" />
-  </a><br>
+    <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" /><br>
+  </a>
   <a href="https://mastodon.social/@rhciv1972" target="_blank">
     <img alt="Mastodon: rhciv1972" src="https://img.shields.io/mastodon/follow/109497169591319512?domain=https%3A%2F%2Fmastodon.social&style=social" />
   </a>
+  </p>
 </p>
 
 ### 🛋️ [Homepage](https://github.com/rhc-iv/album-release-cataloging-app)
