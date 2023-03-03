@@ -31,6 +31,10 @@
 - Entries that appear in the app's _**TreeView**_ can be _**Updated**_ or _**Deleted**_.
 - Use the _**Exit**_ button to exit the application.
 
+## 📝 To-Do
+
+- Work on TreeView readability.
+- Add drop-down GUI element that allows users to select fields for catalog entries.
 
 ## 👤 Author
 
