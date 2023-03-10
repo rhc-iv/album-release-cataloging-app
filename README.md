@@ -43,7 +43,7 @@ The **Streamlit** portion of this repository is unfinished. For now, it runs as 
 - `config.toml`, located in the `.streamlit` folder contains the `[theme]` configuration for the app. It it optional.
 
 <p align="center">
-  <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot02.png?raw=true" width="800" height="600">
+  <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/streamlit-app/screen02.png?raw=true" />
 </p>
 
 ## 📝 To-Do
