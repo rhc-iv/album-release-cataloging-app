@@ -33,16 +33,18 @@
 
 ## ⚠️ Caution
 
-The **Streamlit** portion of this repository is unfinished. For now, it runs as a multipage app. I am mostly content with the _Add to the Catalog_ and _View the Catalog_ pages, but I am still working on the functionality of the _Search the Catalog_ page. I have both a `Submit` and a `Clear` button on the search page. Here, I want the `Clear` button to clear not only the catalog dataframe written to the window, but also whatever selections are being made in any of the dropdown menus. I suspect this will require more undertanding of the `st.session_state` method. For now, here are a few screenshots:
+The **Streamlit** portion of this repository is unfinished. For now, it runs as a multipage app. I am mostly content with the _Add to Catalog_ and _View entire Catalog_ pages, but I am still working on the functionality of the _Search the Catalog_ page. I have both a `Submit` and a `Clear` button on the search page. Here, I want the `Clear` button to clear not only the catalog dataframe written to the window, but also whatever selections are being made in any of the dropdown menus. I suspect this will require more undertanding of the `st.session_state` method. For now, here are a few screenshots:
 <p align="center">
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot02.png?raw=true" width="800" height="600">
 </p>
 
+- Via `pip` or another **Python** module installer, install `requirements.txt`. 
+- From your terminal in the root directory, type `streamlit run Welcome.py`.
+- `config.toml`, located in the `.streamlit` folder contains the `[theme]` configuration for the app. It it optional.
+
 ## 📝 To-Do
 
-- Work on TreeView readability.
-- Add drop-down GUI element that allows users to select fields for catalog entries.
-- Work on fleshing out the Streamlit app
+- Fix **Clear** button functionality in the **Streamlit** app.
 
 ## 👤 Author
 
