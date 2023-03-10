@@ -45,6 +45,9 @@ The **Streamlit** portion of this repository is unfinished. For now, it runs as 
 <p align="center">
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/streamlit-app/screen02.png?raw=true" />
 </p>
+<p align="center">
+  <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/streamlit-app/screen03.png?raw=true" />
+</p>
 
 ## 📝 To-Do
 
