@@ -33,7 +33,7 @@
 
 ## ⚠️ Caution
 
-The **Streamlit** portion of this repository is unfinished. I am currently working on a framework to create a searchable database from the contents of the **Tkinter** app's .json file output within **Streamlit**. Ultimately, I'd like to incorporate the underlying code of the working **Tkinter** app so that both user input and searchable database output all occur under the same **Streamlit** umbrella. I've only recently begun to read/work within **Streamlit** so this will take some time. For now, this is a screenshot of the model under development:
+The **Streamlit** portion of this repository is unfinished. For now, it runs as a multipage app. I am mostly content with the _Add to the Catalog_ and _View the Catalog_ pages, but I am still working on the functionality of the _Search the Catalog_ page. I have both a `Submit` and a `Clear` button on the search page. Here, I want the `Clear` button to clear not only the catalog dataframe written to the window, but also whatever selections are being made in any of the dropdown menus. I suspect this will require more undertanding of the `st.session_state` method. For now, here are a few screenshots:
 <p align="center">
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot02.png?raw=true" width="800" height="600">
 </p>
