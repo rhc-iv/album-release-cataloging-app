@@ -22,7 +22,7 @@
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot.png" width="800" height="600" />
 </p>
 
-## 👩🏻‍💻 Usage
+## 👩🏻‍💻 Usage (tkinter-app)
 
 - Open the .py file in the editor/IDE of your choice and run the script!
 - Use the _**Print**_ button to send the .json file output to console.
@@ -37,6 +37,8 @@ The **Streamlit** portion of this repository is unfinished. For now, it runs as 
 <p align="center">
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/screenshot02.png?raw=true" width="800" height="600">
 </p>
+
+## 👩🏻‍💻 Usage (streamlit-app)
 
 - Via `pip` or another **Python** module installer, install `requirements.txt`. 
 - From your terminal in the root directory, type `streamlit run Welcome.py`.
