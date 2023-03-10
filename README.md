@@ -42,6 +42,7 @@ The **Streamlit** portion of this repository is unfinished. For now, it runs as 
 - From your terminal in the root directory, type `streamlit run Welcome.py`.
 - `config.toml`, located in the `.streamlit` folder contains the `[theme]` configuration for the app. It it optional.
 
+
 <p align="center>
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/streamlit-app/screen01.png?raw=true" />
 </p>
@@ -51,6 +52,7 @@ The **Streamlit** portion of this repository is unfinished. For now, it runs as 
 <p align="center">
   <img src="https://github.com/rhc-iv/album-release-cataloging-app/blob/main/streamlit-app/screen03.png?raw=true" />
 </p>
+
 
 ## 📝 To-Do
 
